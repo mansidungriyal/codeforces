@@ -1,5 +1,5 @@
 #include <stdio.h>
- 
+
 int main() {
     int n,x,y,z;
     int sum_x = 0, sum_y = 0, sum_z = 0;
